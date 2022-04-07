@@ -14,21 +14,23 @@
   <img align="center" alt="Rai-cplusplus" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Rai-mysql" height="60" width="70" src="https://www.logo.wine/a/logo/Wolfram_Research/Wolfram_Research-Logo.wine.svg">
   <img align="center" alt="Rai-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rai-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- 
-  ##
- </div>
-<p>
-Sou bacharelado em Física pela universidade estadual paulista (UNESP) e trabalho com desenvolvimento Python. Minha paixão por programação iniciou-se com o meu projeto de TCC de nome CEQ-INPE, um projeto para análise numérica dos produtos das reações combustão de gases ideais. Este projeto foi desenvolvido com o apoio da cnpq e do instituto nacional de pesquisas espaciais (INPE), onde foi possível desenvolver habilidades em Python, C++ e Wolfram aplicada ao Mathematica. Depois de concluir esse projeto, iniciei meus estudos aprofundados em Python, tenho conhecimento de diversas ferramentos como: Numpy, scipy, matplotlib, jupyter, openpyxl, pandas, selenium, tensorflow, telebot, mysql-connector, flask entre outros.
-</p>
-<p>
-Hoje em dia trabalho com raspagem de dados e automação na Workana como freelancer, tenho diversos projetos desenvolvidos na área. Também tenho projetos paralelos com flask utilizando HTML e CSS.
-</p>
-<p>
-Para entrar em contato comigo basta acessar algum dos links abaixo.
-</p>
-  
-<div> 
+  <img align="center" alt="Rai-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+##
+</div>
+<div>
+  <h4>
+    Sou bacharelado em Física pela universidade estadual paulista (UNESP) e trabalho com desenvolvimento Python. Minha paixão por programação iniciou-se com     o meu projeto de TCC de nome CEQ-INPE, um projeto para análise numérica dos produtos das reações combustão de gases ideais. Este projeto foi desenvolvido     com o apoio da cnpq e do instituto nacional de pesquisas espaciais (INPE), onde foi possível desenvolver habilidades em Python, C++ e Wolfram aplicada ao     Mathematica. Depois de concluir esse projeto, iniciei meus estudos aprofundados em Python, tenho conhecimento de diversas ferramentos como: Numpy, scipy,     matplotlib, jupyter, openpyxl, pandas, selenium, tensorflow, telebot, mysql-connector, flask entre outros.
+  </h4>
+  <h4>
+    Hoje em dia trabalho com raspagem de dados e automação na Workana como freelancer, tenho diversos projetos desenvolvidos na área. Também tenho projetos       paralelos com flask utilizando HTML e CSS.
+  </h4>
+  <h4>
+    Para entrar em contato comigo basta acessar algum dos links abaixo.
+  </h4>
+
+</div> 
+
+<div>
   <a href="https://instagram.com/putsraimundo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:raimundo.36@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/raimundo-silva-033437194" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
