@@ -31,7 +31,7 @@
 </div> 
   
 <div>
-  <a href="https://instagram.com/putsraimundo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.workana.com/freelancer/10715c8dac21f5dc94aa20e381190359"  target="_blank"><img height="20" width="100" src="https://wkncdn.com/newx/assets/build/img/logos-v3/free_logo_pt_BR.b01e38e89.png" target="_blank"></a>
   <a href = "mailto:raimundo.36@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/raimundo-silva-033437194" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://wa.me/5512997592029" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
