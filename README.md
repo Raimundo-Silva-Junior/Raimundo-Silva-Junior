@@ -29,7 +29,17 @@
     Para entrar em contato comigo basta acessar algum dos links abaixo.
   </h4>
 </div> 
-  
+
+<div>
+  <h4>
+I have a degree in Physics from Universidade Estadual Paulista (UNESP) and i work with Python development. My passion for programming started with my undergraduate research called CEQ-INPE, a project for numerical analysis of the products of combustion reactions in ideal gases. This project was developed with the support of CNPq and Instituto Nacional de Pesquisas Espaciais (INPE), where it was possible to develop skills in Python, C++ and Wolfram Mathematica. After completing this project, I started my in-depth studies in Python, I have knowledge of several tools such as: Numpy, scipy, matplotlib, jupyter, openpyxl, pandas, selenium, tensorflow, telebot, mysql-connector, flask among others.
+  </h4>
+      Nowadays I work with data scraping and automation at Workana as a freelancer, I have several projects developed. I also have side projects with Flask using HTML and CSS.
+  <h4>
+    To contact me just access the links below.
+  </h4>
+</div> 
+
 <div>
   <a href="https://www.workana.com/freelancer/10715c8dac21f5dc94aa20e381190359"  target="_blank"><img height="28" width="110" src="https://github.com/Raimundo-Silva-Junior/Raimundo-Silva-Junior/blob/main/workana-logo.png" target="_blank"></a>
   <a href = "mailto:raimundo.36@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
