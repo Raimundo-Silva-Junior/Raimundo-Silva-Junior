@@ -19,6 +19,9 @@
 </div>
 
 <div>
+  <h3>
+    Português
+  </h3>
   <h4>
     Sou bacharelado em Física pela universidade estadual paulista (UNESP) e trabalho com desenvolvimento Python. Minha paixão por programação iniciou-se com     o meu projeto de TCC de nome CEQ-INPE, um projeto para análise numérica dos produtos das reações combustão de gases ideais. Este projeto foi desenvolvido     com o apoio da cnpq e do instituto nacional de pesquisas espaciais (INPE), onde foi possível desenvolver habilidades em Python, C++ e Wolfram aplicada ao     Mathematica. Depois de concluir esse projeto, iniciei meus estudos aprofundados em Python, tenho conhecimento de diversas ferramentos como: Numpy, scipy,     matplotlib, jupyter, openpyxl, pandas, selenium, tensorflow, telebot, mysql-connector, flask entre outros.
   </h4>
@@ -31,6 +34,9 @@
 </div> 
 
 <div>
+  <h3>
+    English
+  </h3>
   <h4>
 I have a degree in Physics from Universidade Estadual Paulista (UNESP) and i work with Python development. My passion for programming started with my undergraduate research called CEQ-INPE, a project for numerical analysis of the products of combustion reactions in ideal gases. This project was developed with the support of CNPq and Instituto Nacional de Pesquisas Espaciais (INPE), where it was possible to develop skills in Python, C++ and Wolfram Mathematica. After completing this project, I started my in-depth studies in Python, I have knowledge of several tools such as: Numpy, scipy, matplotlib, jupyter, openpyxl, pandas, selenium, tensorflow, telebot, mysql-connector, flask among others.
   </h4>
