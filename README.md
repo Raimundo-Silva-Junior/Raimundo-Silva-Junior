@@ -1,10 +1,4 @@
 ## Olá! meu nome é Raimundo Silva, sou Bacharelado em Física e desenvolvedor Python.
-
-<div align="center">
-  <a href="https://github.com/Raimundo-Silva-Junior">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Raimundo-Silva-Junior&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raimundo-Silva-Junior&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
 <div class="languageblock">
   <img align="center" alt="Rai-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rai-Selenium" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
